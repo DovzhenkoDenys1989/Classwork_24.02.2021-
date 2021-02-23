@@ -1,0 +1,11 @@
+.wrapper{
+  border: 5px solid red;
+  padding: 10px;
+  height: 500px;
+  background-color: dodgerblue;
+  background-image: url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
