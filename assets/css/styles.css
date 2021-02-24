@@ -6,3 +6,7 @@ h1{
   margin-bottom: 10px;
   font-weight: bold;
 }
+
+.list{
+  list-style-image: url("../images/alien.png");
+}
