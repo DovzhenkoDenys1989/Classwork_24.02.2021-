@@ -2,11 +2,8 @@
   font-size: 30px;
 }
 h1{
-  font-size: 120px;
+  font-size: 40px;
   margin-bottom: 10px;
   font-weight: bold;
 }
 
-.list{
-  list-style-image: url("../images/alien.png");
-}
